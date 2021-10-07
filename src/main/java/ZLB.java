@@ -6,6 +6,6 @@
  */
 public class ZLB {
     public static void main(String[] args) {
-        System.out.println("ZLBNB");
+        System.out.println("ZLBNB22");
     }
 }
